@@ -144,7 +144,7 @@ def is_valid_solution(n, solution):
 
     return True
 
-def plot_chessboard(n, queens):
+def plot_chessboard(n, solution):
     """Create a chessboard with queens using matplotlib. Image is saved
     in the root directory. Returns the image file name.
     """
